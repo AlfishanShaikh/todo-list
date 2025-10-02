@@ -40,7 +40,7 @@ All you need is a modern web browser (like Chrome, Firefox, or Edge).
 
 1.  Clone the repository:
     ```sh
-    git clone [https://github.com/AlfishanShaikh/todo-list.git](https://github.com/AlfishanShaikh/todo-list.git)
+    git clone https://github.com/AlfishanShaikh/todo-list.git
     ```
 2.  Navigate to the project directory:
     ```sh
